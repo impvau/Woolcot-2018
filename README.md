@@ -52,7 +52,7 @@ Each of the tables includes a comparison when data is filtered using the additio
 
 A reproduction container with all required packages etc. with VS Code line-by-line debuging availble here:
 ```
-docker pull impvsol.azurecr.io/240626-Woolcot-2018
+docker pull impvsol.azurecr.io/240626-woolcot-2018
 ```
 
 ## Execution in VS Code
